@@ -1,1 +1,1 @@
-# AzureCloudTutorial
+# Tutorial for Azure Cloud
