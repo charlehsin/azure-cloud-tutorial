@@ -1,5 +1,11 @@
 # Tutorial for Azure Cloud
 
+## Overview
+
+- Azure load balancer is at load-balancer folder.
+- Azure Kubernetes Service is at kubernetes-service folder.
+- Azure Functions is at functions folder.
+
 ## PowerShell Commands
 
 ### Install Azure Powershell module
@@ -21,6 +27,15 @@
 ### Remove a resource group
 
 - Remove-AzResourceGroup -Name azureTutorialResourceGroup
+
+## Installed SDKs and Tools
+
+- https://dotnet.microsoft.com/download (both 5.0 and Core 3.1)
+- https://docs.microsoft.com/en-us/azure/azure-functions/functions-run-local?tabs=v3%2Cwindows%2Ccsharp%2Cportal%2Cbash%2Ckeda#install-the-azure-functions-core-tools
+
+## Visual Studio Code extensions
+
+- https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.csharp
 
 ## References
 
