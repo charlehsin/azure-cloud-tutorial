@@ -14,11 +14,6 @@ This can be run locally and also can be deployed to Azure.
 
 - https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-azurefunctions
 - https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-cosmosdb
-- https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-azurestorage
-
-## Extra tools to install
-
-- https://azure.microsoft.com/en-us/features/storage-explorer/
 
 ## Reference
 

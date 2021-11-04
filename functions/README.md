@@ -22,5 +22,3 @@ This can be run locally and also can be deployed to Azure.
 - https://docs.microsoft.com/en-us/azure/azure-functions/functions-get-started?pivots=programming-language-csharp
 - https://docs.microsoft.com/en-us/azure/azure-functions/create-first-function-vs-code-csharp?tabs=isolated-process&pivots=programming-runtime-functions-v3
    - Use https://docs.microsoft.com/en-us/azure/azure-functions/functions-develop-vs-code?tabs=csharp#enable-publishing-with-advanced-create-options to publish
-- https://docs.microsoft.com/en-us/azure/azure-functions/functions-add-output-binding-cosmos-db-vs-code?pivots=programming-language-csharp&tabs=isolated-process 
-- https://docs.microsoft.com/en-us/azure/azure-functions/functions-add-output-binding-storage-queue-vs-code?tabs=isolated-process&pivots=programming-language-csharp 
