@@ -4,7 +4,7 @@
 
 - Azure load balancer is at load-balancer folder.
 - Azure Kubernetes Service is at kubernetes-service folder.
-- Azure Functions is at functions folder.
+- Azure Functions is at functions and functions-cosmosdb folder.
 
 ## PowerShell Commands
 
