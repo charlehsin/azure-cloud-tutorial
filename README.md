@@ -41,3 +41,4 @@
 
 - https://azure.microsoft.com/en-us/get-started/#explore-azure
 - https://docs.microsoft.com/en-us/azure/architecture/
+- https://www.strathweb.com/2019/04/roslyn-analyzers-in-code-fixes-in-omnisharp-and-vs-code/

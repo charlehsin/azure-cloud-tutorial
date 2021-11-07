@@ -3,5 +3,6 @@
     "azureFunctions.preDeployTask": "publish (functions)",
     "azureFunctions.deploySubpath": "bin/Release/net5.0/publish",
     "azureFunctions.projectLanguage": "C#",
-    "azureFunctions.projectRuntime": "~3"
+    "azureFunctions.projectRuntime": "~3",
+    "omnisharp.enableRoslynAnalyzers": true
 }
