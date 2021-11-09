@@ -10,6 +10,10 @@ This can be run locally and also can be deployed to Azure.
 
 - dotnet add package Microsoft.Azure.Functions.Worker.Extensions.Storage.Queues --prerelease
 
+## Installed SDKs and Tools
+
+- https://docs.microsoft.com/en-us/azure/azure-functions/functions-run-local?tabs=v3%2Cwindows%2Ccsharp%2Cportal%2Cbash%2Ckeda#install-the-azure-functions-core-tools
+
 ## Visual Studio Code extensions
 
 - https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-azurefunctions

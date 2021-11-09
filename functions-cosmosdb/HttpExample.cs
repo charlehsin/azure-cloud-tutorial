@@ -14,8 +14,8 @@ namespace My.Functions
         public HttpResponseData HttpResponse { get; set; }
     }
     public class MyDocument {
-        public string id { get; set; }
-        public string message { get; set; }
+        public string Id { get; set; }
+        public string Message { get; set; }
     }
 
     public static class HttpExample
@@ -38,8 +38,8 @@ namespace My.Functions
             {
                 Document = new MyDocument
                 {
-                    id = System.Guid.NewGuid().ToString(),
-                    message = message
+                    Id = System.Guid.NewGuid().ToString(),
+                    Message = message
                 },
                 HttpResponse = response
             };

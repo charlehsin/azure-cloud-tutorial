@@ -5,6 +5,8 @@
 - Azure load balancer is at load-balancer folder.
 - Azure Kubernetes Service is at kubernetes-service folder.
 - Azure Functions is at functions and functions-cosmosdb and functions-storage folder.
+- Azure Event Hubs is at eventhubs folder.
+- Azure Service Bus is at servicebus folder.
 
 ## PowerShell Commands
 
@@ -31,7 +33,6 @@
 ## Installed SDKs and Tools
 
 - https://dotnet.microsoft.com/download (both 5.0 and Core 3.1)
-- https://docs.microsoft.com/en-us/azure/azure-functions/functions-run-local?tabs=v3%2Cwindows%2Ccsharp%2Cportal%2Cbash%2Ckeda#install-the-azure-functions-core-tools
 
 ## Visual Studio Code extensions
 
