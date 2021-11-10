@@ -1,4 +1,13 @@
-# Tutorial for Azure Kubernetes service
+# Tutorial and sample codes for Azure Kubernetes service
+
+## Overview
+
+- General concept
+   - https://docs.docker.com/get-started/orchestration/
+   - https://docs.microsoft.com/en-us/learn/paths/intro-to-kubernetes-on-azure/
+   - https://docs.microsoft.com/en-us/azure/aks/intro-kubernetes
+- Getting started guide
+   - https://docs.microsoft.com/en-us/azure/aks/kubernetes-walkthrough-powershell
 
 ## PowerShell Commands
 
@@ -18,11 +27,3 @@
 - .\kubectl apply -f azure-vote.yaml
 - .\kubectl get service azure-vote-front --watch
 
-## Reference
-
-- https://docs.docker.com/get-started/orchestration/
-- https://docs.microsoft.com/en-us/azure/architecture/reference-architectures/containers/aks-microservices/aks-microservices
-- https://docs.microsoft.com/en-us/learn/paths/intro-to-kubernetes-on-azure/
-- https://docs.microsoft.com/en-us/azure/aks/intro-kubernetes
-- https://docs.microsoft.com/en-us/azure/aks/kubernetes-walkthrough-powershell
-- https://docs.microsoft.com/en-us/powershell/azure/install-az-ps?view=azps-6.6.0

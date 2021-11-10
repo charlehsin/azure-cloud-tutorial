@@ -1,11 +1,21 @@
-# Tutorial for Azure Event Hubs
+# Tutorial and sample codes for Azure Event Hubs
 
 ## Overview
 
-This is the tutorial codes by following the Azure getting started guide.
+This includes the tutorial and the sample codes by following the Azure getting started guide.
 
 You need to run the PowerShell commands first to create the required Azure objects and to get the required information.
 Then you can modify the Program.cs codes with the correct information.
+
+- General tutorial
+   - https://docs.microsoft.com/en-us/azure/event-grid/compare-messaging-services
+   - https://docs.microsoft.com/en-us/azure/event-hubs/ 
+- Getting started guide
+   - https://docs.microsoft.com/en-us/azure/event-hubs/event-hubs-quickstart-powershell
+   - https://docs.microsoft.com/en-us/azure/event-hubs/event-hubs-get-connection-string#get-connection-string-from-the-portal 
+   - https://docs.microsoft.com/en-us/azure/event-hubs/event-hubs-dotnet-standard-getstarted-send
+   - https://github.com/Azure/azure-sdk-for-net/tree/main/sdk/eventhub/Azure.Messaging.EventHubs/samples
+   - https://github.com/Azure/azure-sdk-for-net/tree/main/sdk/eventhub/Azure.Messaging.EventHubs.Processor/samples
 
 ## PowerShell Commands
 
@@ -50,18 +60,3 @@ Then you can modify the Program.cs codes with the correct information.
 
 - dotnet add package Azure.Messaging.EventHubs
 - dotnet add package Azure.Messaging.EventHubs.Processor
-
-## References
-
-### General
-
-- https://docs.microsoft.com/en-us/azure/event-grid/compare-messaging-services
-- https://docs.microsoft.com/en-us/azure/event-hubs/
-
-### Getting started
-
-- https://docs.microsoft.com/en-us/azure/event-hubs/event-hubs-quickstart-powershell
-- https://docs.microsoft.com/en-us/azure/event-hubs/event-hubs-get-connection-string#get-connection-string-from-the-portal 
-- https://docs.microsoft.com/en-us/azure/event-hubs/event-hubs-dotnet-standard-getstarted-send
-- https://github.com/Azure/azure-sdk-for-net/tree/main/sdk/eventhub/Azure.Messaging.EventHubs/samples
-- https://github.com/Azure/azure-sdk-for-net/tree/main/sdk/eventhub/Azure.Messaging.EventHubs.Processor/samples
