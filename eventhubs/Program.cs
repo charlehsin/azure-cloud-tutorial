@@ -55,7 +55,7 @@ namespace eventhubs
                         await RunSenderAsync();
                         break;
                     case 2:
-                        await RunReceiver();
+                        await RunReceiverAsync();
                         break;
                 }
             }
@@ -100,7 +100,7 @@ namespace eventhubs
         }
 
         // receiver
-        private static async Task RunReceiver()
+        private static async Task RunReceiverAsync()
         {
             // Read from the default consumer group: $Default
             string consumerGroup = EventHubConsumerClient.DefaultConsumerGroupName;
