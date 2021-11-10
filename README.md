@@ -11,6 +11,12 @@
 - Azure Functions is at functions and functions-cosmosdb and functions-storage folder.
 - Azure Event Hubs is at eventhubs folder.
 - Azure Service Bus is at servicebus folder.
+- Azure Event Grid is at eventgrid folder.
+- Combination of Service Bus, Event Grid, and Functions is at servicebus-eventgrid-functions folder.
+
+## GitHub Actions included
+
+- CodeQL
 
 ## General PowerShell Commands
 
@@ -19,6 +25,7 @@
 - $PSVersionTable.PSVersion
 - Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope CurrentUser
 - Install-Module -Name Az -Scope CurrentUser -Repository PSGallery -Force
+- Update-Module -Name Az
 
 ### Sign in to Azure
 
