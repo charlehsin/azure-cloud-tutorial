@@ -12,7 +12,6 @@
 - Azure Event Hubs is at eventhubs folder.
 - Azure Service Bus is at servicebus folder.
 - Azure Event Grid is at eventgrid folder.
-- Combination of Service Bus, Event Grid, and Functions is at servicebus-eventgrid-functions folder.
 
 ## GitHub Actions included
 
